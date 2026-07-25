@@ -14,7 +14,7 @@ const experiences = [
     logo: "/img/krayons.PNG",
     company: "Krayons Convergence Pvt. Ltd.",
     role: "Web Developer",
-    period: "Sept 2023 – Dec 2024",
+    period: "Sept 2023 – Aug 2025",
     description:
       "Built and customized WordPress websites to meet client needs. Implemented effective on-page and off-page SEO strategies, improving site visibility and traffic.",
   },
@@ -30,7 +30,7 @@ const experiences = [
     logo: "/img/onetick.PNG",
     company: "Onetick Technology",
     role: "Software Developer",
-    period: "Present",
+    period: "Sept 2025 – June 2026",
     description:
       "Working on full-stack MERN stack applications, developing responsive frontends with React.js and scalable backend services using Node.js, Express.js, and MongoDB.",
   },

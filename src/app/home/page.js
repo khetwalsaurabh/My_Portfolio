@@ -13,7 +13,7 @@
 // const Home = () => {
 //   return (
 //     <>
-   
+
 //       {/* Hero Section */}
 //       <div className="flex flex-col md:flex-row w-full min-h-screen bg-white">
 
@@ -55,10 +55,10 @@
 //         <div className="h-36 w-36 sm:h-48 sm:w-48 md:h-60 md:w-60 rounded-full bg-white shadow-lg" />
 //               <img src="img/Sourabh.jpeg" alt="Description of the image" />
 //         </div>
-  
+
 
 //       </div>
-   
+
 
 //       {/* Sections */}
 //       <About />
@@ -84,6 +84,8 @@ import Skills from "../skills/page";
 import ContactMe from "../contact/page";
 import Link from "next/link";
 
+import { TypeAnimation } from "react-type-animation";
+
 const Home = () => {
   return (
     <>
@@ -100,6 +102,9 @@ const Home = () => {
           </h1>
           <p className="typewriter text-sm sm:text-base font-semibold text-[#57564F] font-signika mb-6 tracking-wide">
             MERN Stack Developer
+          </p>
+          <p className="text-xl mt-4 mb-5 text-gray-600">
+            Crafting modern web experiences with MERN & Next.js
           </p>
 
           {/* Social Icons */}
