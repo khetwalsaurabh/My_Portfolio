@@ -18,14 +18,6 @@ const experiences = [
     description:
       "Built and customized WordPress websites to meet client needs. Implemented effective on-page and off-page SEO strategies, improving site visibility and traffic.",
   },
-  // {
-  //   logo: "/img/creativeimagin.PNG",
-  //   company: "Creative Imagin",
-  //   role: "Web Developer",
-  //   period: "April 2024 – Aug 2024",
-  //   description:
-  //     "Built and maintained responsive websites using HTML, CSS, JavaScript, and WordPress. Collaborated on UI/UX implementations and SEO optimization.",
-  // },
   {
     logo: "/img/onetick.PNG",
     company: "Onetick Technology",
