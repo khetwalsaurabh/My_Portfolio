@@ -103,9 +103,6 @@ const Home = () => {
           <p className="typewriter text-sm sm:text-base font-semibold text-[#57564F] font-signika mb-6 tracking-wide">
             MERN Stack Developer
           </p>
-          <p className="text-xl mt-4 mb-5 text-gray-600">
-            Crafting modern web experiences with MERN & Next.js
-          </p>
 
           {/* Social Icons */}
           <div
